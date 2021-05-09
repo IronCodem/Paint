@@ -1,4 +1,4 @@
-let colorlist = ['yellow', 'blue', 'green', 'red']
+let colorlist = ['yellow', 'blue', 'green', 'red', 'grey']
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
